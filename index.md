@@ -1,5 +1,4 @@
 # Welcome to SIOS
-
 ## Журнал тренера
 [Журнал тренера](https://apps.apple.com/ua/app/журнал-тренера/id1415326996?l=ru)
 
@@ -7,45 +6,43 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-### Сенсомоторика
-### Функциональная ассиметрия
+# Сенсомоторика
+## Функциональная ассиметрия
 ### Объём восприятия
 
 ### Markdown
 
 ```markdown
-**Theme** _Theme_ `Theme`
-
-
-![myPhoto](https://user-images.githubusercontent.com/57872188/144673743-26e5a97b-c995-4175-afde-ac5f87ee6f54.jpg)
-
-
+**Theme**
 ```
+
+```markdown
+_Theme_
+```
+
+```markdown
+`Theme`
+```
+
+![myPhoto](https://user-images.githubusercontent.com/57872188/144673743-26e5a97b-c995-4175-afde-ac5f87ee6f54.jpg).
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
 # Сенсомоторика
-# Функциональная ассиметрия
+## Функциональная ассиметрия
 ### Объём восприятия
-
 - Bulleted
 - List
-
 1. Numbered
 2. List
-
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-
-
-
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
@@ -53,6 +50,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+[contact support](https://support.github.com/contact) and we’ll help you sort it out.
 [editor on GitHub](https://github.com/ViacheslavRomanenko/SIOS/edit/gh-pages/index.md)
