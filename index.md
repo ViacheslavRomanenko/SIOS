@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-```
+```markdown
 **Theme** _Theme_ `Theme`
 ```
 
