@@ -18,7 +18,8 @@ _Theme_
 
 `Theme`
 
-![siosApps](https://user-images.githubusercontent.com/57872188/144674910-e421827b-4e82-4938-a24d-e48e6f294382.png)
+![bcN180](https://user-images.githubusercontent.com/57872188/144675846-bc3177ad-d31c-422a-a1eb-b5c9e443c280.jpg)
+
 
 - Whenever you commit to this repository
 - Whenever you commit to this repository
