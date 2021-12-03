@@ -1,6 +1,6 @@
 # Welcome to SIOS
 ## Title
-[Журнал тренера](https://apps.apple.com/ua/app/журнал-тренера/id1415326996?l=ru)
+[Content](https://apps.apple.com/ua/app/журнал-тренера/id1415326996?l=ru)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -33,9 +33,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-# Сенсомоторика
-## Функциональная ассиметрия
-### Объём восприятия
+# Content
+## Content
+### Content
 - Bulleted
 - List
 1. Numbered
