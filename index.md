@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Apps](https://apps.apple.com/ua/app/журнал-тренера/id1415326996?l=ru)
 
+# Сенсомоторика
+# Функциональная ассиметрия
+# Объём восприятия
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
