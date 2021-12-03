@@ -20,6 +20,10 @@ _Theme_
 
 ![siosApps](https://user-images.githubusercontent.com/57872188/144674910-e421827b-4e82-4938-a24d-e48e6f294382.png)
 
+- Bulleted
+- List
+1. Numbered
+2. List
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -45,4 +49,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
 [editor on GitHub](https://github.com/ViacheslavRomanenko/SIOS/edit/gh-pages/index.md)
