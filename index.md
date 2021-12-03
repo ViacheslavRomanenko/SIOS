@@ -18,7 +18,7 @@ _Theme_
 
 `Theme`
 
-![myPhoto](https://user-images.githubusercontent.com/57872188/144673743-26e5a97b-c995-4175-afde-ac5f87ee6f54.jpg).
+![siosApps](https://user-images.githubusercontent.com/57872188/144674910-e421827b-4e82-4938-a24d-e48e6f294382.png)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
