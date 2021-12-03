@@ -15,6 +15,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 **Theme** _Theme_ `Theme`
+
+
+![myPhoto](https://user-images.githubusercontent.com/57872188/144673743-26e5a97b-c995-4175-afde-ac5f87ee6f54.jpg)
+
+
 ```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -36,7 +41,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![myPhoto](https://user-images.githubusercontent.com/57872188/144673743-26e5a97b-c995-4175-afde-ac5f87ee6f54.jpg)
+
 
 ```
 
