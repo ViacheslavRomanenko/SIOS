@@ -20,10 +20,12 @@ _Theme_
 
 ![siosApps](https://user-images.githubusercontent.com/57872188/144674910-e421827b-4e82-4938-a24d-e48e6f294382.png)
 
-- Bulleted
-- List
-1. Numbered
-2. List
+- Whenever you commit to this repository
+- Whenever you commit to this repository
+- 
+1. Whenever you commit to this repository
+2. Whenever you commit to this repository
+3. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
