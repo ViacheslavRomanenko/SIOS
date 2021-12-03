@@ -12,17 +12,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-```markdown
 **Theme**
-```
 
-```markdown
 _Theme_
-```
 
-```markdown
 `Theme`
-```
 
 ![myPhoto](https://user-images.githubusercontent.com/57872188/144673743-26e5a97b-c995-4175-afde-ac5f87ee6f54.jpg).
 
